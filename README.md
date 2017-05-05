@@ -1,6 +1,7 @@
 # ASP.NET-MVC
 ASP.NET MVC Web Application 
-MVC BLOG VİEW
+<br/>
+MVC BLOG First Look
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_1.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_2.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_3.png)
