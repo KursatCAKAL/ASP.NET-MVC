@@ -1,0 +1,108 @@
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\ApplicationInsights.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\csc.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\vbc.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\VBCSCompiler.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\MVC_SCAFFOLDING.dll.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\MVC_SCAFFOLDING.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\MVC_SCAFFOLDING.pdb
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.SqlServer.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.Web.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.ApplicationInsights.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Helpers.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Mvc.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Razor.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Deployment.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Razor.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.SqlServer.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.Web.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.ApplicationInsights.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Razor.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Deployment.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Razor.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Helpers.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Mvc.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\obj\Debug\MVC_SCAFFOLDING.csprojResolveAssemblyReference.cache
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\obj\Debug\MVC_SCAFFOLDING.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\obj\Debug\MVC_SCAFFOLDING.pdb
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.Mvc.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.Mvc.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\obj\Debug\MVC_SCAFFOLDING.csprojResolveAssemblyReference.cache
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\obj\Debug\MVC_SCAFFOLDING.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\obj\Debug\MVC_SCAFFOLDING.pdb
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\ApplicationInsights.config
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\csc.exe
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\System.Collections.Immutable.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\System.Reflection.Metadata.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\vbc.exe
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\VBCSCompiler.exe
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\roslyn\VBCSCompiler.exe.config
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\MVC_SCAFFOLDING.dll.config
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\MVC_SCAFFOLDING.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\MVC_SCAFFOLDING.pdb
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.SqlServer.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.Agent.Intercept.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.DependencyCollector.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.Web.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.WindowsServer.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.ApplicationInsights.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.Web.Infrastructure.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.Mvc.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Helpers.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Mvc.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Razor.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Deployment.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Razor.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\EntityFramework.SqlServer.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.DependencyCollector.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.Web.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.AI.WindowsServer.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.ApplicationInsights.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\PagedList.Mvc.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Razor.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Deployment.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Webpages.Razor.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Helpers.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\02_MVC_SCAFFOLDING\MVC_SCAFFOLDING\MVC_SCAFFOLDING\bin\System.Web.Mvc.xml
