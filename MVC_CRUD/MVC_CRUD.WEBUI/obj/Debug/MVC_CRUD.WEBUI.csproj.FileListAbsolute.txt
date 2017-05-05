@@ -1,0 +1,156 @@
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\ApplicationInsights.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\csc.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\vbc.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\VBCSCompiler.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.dll.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.pdb
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.SqlServer.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Web.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.DATA.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Helpers.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Mvc.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Razor.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Razor.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.DATA.pdb
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.SqlServer.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Web.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Razor.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Razor.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Helpers.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Mvc.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.csprojResolveAssemblyReference.cache
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.pdb
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\ApplicationInsights.config
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\csc.exe
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\System.Collections.Immutable.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\vbc.exe
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\VBCSCompiler.exe
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\VBCSCompiler.exe.config
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.dll.config
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.pdb
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.SqlServer.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Web.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.WindowsServer.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.ApplicationInsights.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.Web.Infrastructure.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.DATA.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Helpers.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Mvc.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Razor.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Deployment.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Razor.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.DATA.pdb
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.SqlServer.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Web.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.WindowsServer.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.ApplicationInsights.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Razor.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Deployment.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Razor.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Helpers.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Mvc.xml
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.csprojResolveAssemblyReference.cache
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.dll
+D:\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.pdb
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\ApplicationInsights.config
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\csc.exe
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\System.Collections.Immutable.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\vbc.exe
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\VBCSCompiler.exe
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\roslyn\VBCSCompiler.exe.config
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.dll.config
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.WEBUI.pdb
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.SqlServer.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Web.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.WindowsServer.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.ApplicationInsights.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.Web.Infrastructure.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.DATA.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Helpers.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Mvc.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Razor.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Deployment.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Razor.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\MVC_CRUD.DATA.pdb
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\EntityFramework.SqlServer.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.Web.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.AI.WindowsServer.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.ApplicationInsights.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Razor.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Deployment.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Webpages.Razor.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Helpers.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\bin\System.Web.Mvc.xml
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.csprojResolveAssemblyReference.cache
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.dll
+D:\PC FORMAT\İHTİYARİ\Development\DEVELOPMENT_VIDEOS\07_MVC\01_MVC_FUNDAMENTALS\MVC_CRUD\MVC_CRUD.WEBUI\obj\Debug\MVC_CRUD.WEBUI.pdb

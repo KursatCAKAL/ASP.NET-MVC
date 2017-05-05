@@ -1,0 +1,116 @@
+﻿@{
+    Layout = null;
+}
+@using MVC_CRUD.DATA.Model_Entity
+@model List<Category>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AllCategories</title>
+    <!--Css Alanı-->
+
+    <link href="~/Assets/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Assets/Content/font-awesome.css" rel="stylesheet" />
+    <!--Fontawesome kütüphanesi bootstrap üzerinden çalışır.-->
+     <!--Css Alanı-->
+
+    <!--JS Alanı-->
+    <script src="~/Assets/Scripts/jquery-3.1.1.js"></script>
+    <script src="~/Assets/Scripts/bootstrap.js"></script>
+    <style>
+        .genislet{
+            width:90%
+        }
+    </style>
+
+    <!--JS Alanı-->
+</head>
+<body>
+
+    <div id="ModelEkleGuncelle" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content genislet">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Modal title</h4>
+                </div>
+                <div class="modal-body clearfix">
+                    <!-- alan taşmalarını düzenler.-->
+                    @using (Html.BeginForm("InsertUpdateCategory", "Category", FormMethod.Post))
+                    {
+                        <div class="col-lg-pull-12">
+                            <label class="col-md-3">Kategori Adı</label>
+                            <!--Pure HTML YAZIM-->
+                            <div class="col-md-9"><input id="txtAd" name="txtAd" type="text" placeholder="Kategori Adı Giriniz" class="form-control" /></div>
+                            <!--HTML HELPER YAZIM-->
+                            @*<div class="col-md-9">@Html.TextBox("textKatAd", null, new { @class = "form-control", @placeholder = "Deneme deneme" })</div>*@
+                        </div>
+                        <div class="col-lg-push-12">
+                            <label class="col-md-3">Kategori Açıklama</label>
+                            <div class="col-md-9"><input id="txtAciklama" name="txtAciklama"type="text" placeholder="Kategori Açıklama Giriniz" class="form-control" /></div>
+                        </div>
+                        <input type="hidden" id="hdnKatID" name="hdnKatID"/>
+                        <button class="btn btn-info pull-right">Kategori Kaydet</button>
+                    }
+                </div>
+                @*<div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>@*Burdan değiştirmiyo
+                </div>*@
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div class="col-md-10 col-md-offset-1">
+        <h2 class="text-center">
+        Kategori İşlemleri
+        <span data-toggle="modal" data-target="#ModelEkleGuncelle" class="btn col-xs-pull-6">KategoriEkle</span></h2>
+    </div>
+    
+    <div class="col-md-10 col-md-offset-1">@*col-md-offset sondan belirtilen grid kadar keser yok eder.*@
+        <div>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>SıraNo</th>
+                        <th>Kategori Adı</th>
+                        <th>Kategori Açıklama</th>
+                        <th>Güncelle/Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                            int degisken=1;
+                            foreach (Category item in Model)
+                            {
+                            <tr>
+                                <th>@degisken</th>
+                                <th>@item.CategoryName</th>
+                                <th>@item.Description</th>
+                                <th>
+
+                                    <button data-toggle="modal" data-target="#ModelEkleGuncelle" class="btn btn-success btnGuncelle" data-KatId="@item.CategoryID" data-KatAdi="@item.CategoryName" dataKatAciklama="@item.Description">Guncelle</button>
+                                    @*<button class="btn btn-danger">Sil</button><!--HTML ACTİON LİNK OLAYINDAN DOLAYI SİL'i BÖYLE YAZMADIK--> *@
+                                    @Html.ActionLink("Sil", "DeleteCategory", "Category",new {@id=item.CategoryID},new { @class = "btn btn-danger" })<!--Fakat bu haliyle link şeklinde gözükür.-->
+
+                                </th>  
+                            </tr>
+                            degisken++;
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script>
+        $('button.btn.btn-success.btnGuncelle').on('click', function () {
+            $('#txtAd').val($(this).attr('data-KatAdi'))
+            $('#txtAciklama').val($(this).attr('dataKatAciklama'))
+            $('#hdnKatID').val($(this).attr('data-KatId'))
+        })
+    </script>
+</body>
+</html>
