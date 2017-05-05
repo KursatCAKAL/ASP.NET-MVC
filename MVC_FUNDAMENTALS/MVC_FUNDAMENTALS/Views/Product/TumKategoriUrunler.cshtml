@@ -1,0 +1,52 @@
+﻿
+@{
+    Layout = null;
+}
+@using MVC_FUNDAMENTALS.Models.ViewModel
+@using MVC_FUNDAMENTALS.Models.ModelEntity
+
+@model KategoriUrunVM
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TumKategoriUrunler</title>
+    <script src="~/Scripts/jquery-3.1.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    
+        <select id="slcKategori" >
+            @foreach (Category item in Model.KategoriList)
+            {
+                <option class="table-bordered" id="@item.CategoryID">@item.CategoryName</option>
+            }
+        </select>
+
+    
+    @using (Html.BeginForm("TumKategoriUrunler", "Product", FormMethod.Post))//amacım 27 deki hidden ı arka tarafa gönderebilmek.Bunuda htmlhelper ile yapabiliyorum
+    {
+        <input type="hidden" id="hdnYakalanCatId"  name="hdnYakalananCatId"/><!--Gizli bölme açarak veri yakalıyoruz.-->
+        <button class="btn-success" type="submit">Kategoriye Göre Ürün Getir</button><!--Formları arka plana tetikleyen yapı direk.-->
+    }
+   
+    <br/><!--Ajax yapısına giriş yapmadığımız için bu şekilde görselliği sağlıyoruz-->
+    <ul>
+
+        @foreach (Product item in Model.UrunList)
+        {
+            <li>@item.ProductName</li>
+        }
+
+    </ul>
+    <script>
+        $('#slcKategori').on('change', function () {
+            var yakalanan = $('#slcKategori option:selected').attr('id')
+            $('#hdnYakalanCatId').val(yakalanan)
+        })
+    </script>
+</body>
+</html>

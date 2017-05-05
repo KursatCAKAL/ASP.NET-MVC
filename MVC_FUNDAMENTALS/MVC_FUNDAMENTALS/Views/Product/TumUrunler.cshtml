@@ -1,0 +1,23 @@
+﻿@{
+    Layout = null;
+}
+@using MVC_FUNDAMENTALS.Models.ModelEntity
+@model List<Product> 
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TumUrunler</title>
+</head>
+<body>
+    <ul>
+        @foreach (Product item in Model)
+        {
+            <li id="@item.ProductID">@item.ProductName</li>
+        }
+    </ul>
+</body>
+</html>
