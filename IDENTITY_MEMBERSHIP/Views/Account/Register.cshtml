@@ -1,0 +1,88 @@
+﻿@{
+    Layout = null;
+}
+@using IDENTITY_MEMBERSHIP.Models.AcoountVM
+@model RegisterVM
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="~/Assets/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Assets/Scripts/jquery-3.1.1.js"></script>
+    <script src="~/Assets/Scripts/bootstrap.js"></script>
+</head>
+<body>
+    <div>
+        <div class="col-md-6 col-md-offset-3">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Kayıt</h3>
+                </div>
+                @*@Html.ValidationSummary()*@
+                @using (Html.BeginForm("Register", "Account", FormMethod.Post))
+                {
+                    <div class="panel-body">
+
+                        <div class="col-md-12" style="margin-top:15px;  margin-bottom:15px;">
+                            <div class="col-md-4">
+                                @Html.LabelFor(x => x.FirstName);
+                            </div>
+                            <div class="col-md-8">
+                                @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control" })@*Class ekleme mantığı html helperlara*@
+                            </div>
+                        </div>
+                        <div class="col-md-12" style="margin-top:15px;  margin-bottom:15px;">
+                            <div class="col-md-4">
+                                @Html.LabelFor(x => x.LastName);
+                            </div>
+                            <div class="col-md-8">
+                                @Html.TextBoxFor(x => x.LastName, new { @class = "form-control" })@*Class ekleme mantığı html helperlara*@
+                            </div>
+                        </div>
+                        <div class="col-md-12" style="margin-top:15px;  margin-bottom:15px;">
+                            <div class="col-md-4">
+                                @Html.LabelFor(x => x.UserName);
+                            </div>
+                            <div class="col-md-8">
+                                @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })@*Class ekleme mantığı html helperlara*@
+                            </div>
+                        </div>
+                        <div class="col-md-12" style="margin-top:15px;  margin-bottom:15px;">
+                            <div class="col-md-4">
+                                @Html.LabelFor(x => x.Email)
+                            </div>
+                            <div class="col-md-8">
+                                @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })@*Class ekleme mantığı html helperlara*@
+                            </div>
+                        </div>
+                        <div class="col-md-12" style="margin-top:15px;  margin-bottom:15px;">
+                            <div class="col-md-4">
+                                @Html.LabelFor(x => x.Password)
+                            </div>
+                            <div class="col-md-8">
+                                @Html.PasswordFor(x => x.Password, new { @class = "form-control" })@*Class ekleme mantığı html helperlara*@
+                            </div>
+                        </div>
+                        <div class="col-md-12" style="margin-top:15px;  margin-bottom:15px;">
+                            <div class="col-md-4">
+                                @Html.LabelFor(x => x.ConfirmPassword)
+                            </div>
+                            <div class="col-md-8">
+                                @Html.PasswordFor(x => x.ConfirmPassword, new { @class = "form-control" })@*Class ekleme mantığı html helperlara*@
+                            </div>
+                        </div>
+
+                       
+
+                        <div class="col-md-12 text-right">
+                            <button type="submit" class="btn btn-primary" style="margin-right:15px">Kayıt Yap</button>
+                        </div>
+
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = null;
+}
+@using Microsoft.AspNet.Identity
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Assets/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Assets/Scripts/jquery-3.1.1.js"></script>
+    <script src="~/Assets/Scripts/bootstrap.js"></script>
+</head>
+<body>
+    <div>
+
+        <div class="col-md-6 col-md-offset-3">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h3 class="panel-title"></h3>
+                </div>
+
+                <div class="panel-body">
+
+                    <div class="col-md-12" style="margin-top:15px;  margin-bottom:15px;">
+                        <h1 class="panel-title">Sadece kullanicilar erişebilecek.</h1>
+                        <h3>@HttpContext.Current.User.Identity.Name</h3>
+                        @*<h6>@Membership.GetUser().ProviderName</h6>---SQL Veritabanına bağlanılamadı hatası aldın.*@
+                    </div>
+
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+    </div>
+</body>
+</html>
