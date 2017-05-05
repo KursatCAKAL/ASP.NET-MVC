@@ -1,0 +1,149 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage1.master.cs" Inherits="WebTemplate.NestedMasterPage1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+  
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="content" runat="server">
+
+    <asp:ContentPlaceHolder ID="placeHolderbaslik" runat="server">
+
+        
+
+    </asp:ContentPlaceHolder>
+
+
+    <div class="products">	 
+       
+
+       
+		                <div class="container">
+                                 <div class="col-md-3 rsidebar">
+				                    <div class="rsidebar-top">
+					                      <script>
+					                       
+                                              function markaPCShow() {
+                                                  document.getElementById('bilgisayarFiltre').hidden = false;
+                                              }
+                                              function markaPCHide() {
+                                                  document.getElementById('bilgisayarFiltre').hidden = true;
+                                              }
+                                              //function markaTELShow() {
+                                              //    document.getElementById('markaTelefon').hidden = false;
+                                              //}
+                                              //function markaTELHide() {
+                                              //    document.getElementById('markaTelefon').hidden = true;
+                                              //}
+					                          //function alertDeneme() {
+					                          //    alert("deneme ben burdayaım");
+					                          //}
+                                              
+                                          </script>
+                                     <%-- <script>
+                                        function alertDeneme() {
+                                            alert("deneme ben burdayaım");
+                                        }
+                                     </script>--%>
+                              <%--    <input type="button" value="PCShow" onclick="markaPCShow();">   <input type="button" value="PCHide" onclick="markaPCHide()">    
+                                  <input type="button" value="TELShow" onclick="markaTELShow();"> <input type="button" value="TELHide" onclick="markaTELHide()">--%>
+                        
+                                   <div class="sidebar-row">
+						                <h4>Fiyat</h4>
+						                <div class="row row1 scroll-pane">
+                                               <asp:CheckBox ID="chkFiyat500" Text="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;500 TL-1000 TL" CssClass="denemeAlert" AutoPostBack="true" runat="server" OnCheckedChanged="chkFiyat500_CheckedChanged" /><br />
+                                               <asp:CheckBox ID="chkFiyat1000" Text="&nbsp;&nbsp;&nbsp;1000 TL-1500 TL" runat="server" AutoPostBack="true" OnCheckedChanged="chkFiyat1000_CheckedChanged" /><br />
+                                               <asp:CheckBox ID="chkFiyat1500" Text="&nbsp;&nbsp;&nbsp;1500 TL-2000 TL" runat="server" AutoPostBack="true" OnCheckedChanged="chkFiyat1500_CheckedChanged" /><br />
+                                               <asp:CheckBox ID="chkFiyat2000" Text="&nbsp;&nbsp;&nbsp;2000 TL-2500 TL" runat="server" AutoPostBack="true" OnCheckedChanged="chkFiyat2000_CheckedChanged" /><br />
+                                               <asp:CheckBox ID="chkFiyat2500" Text="&nbsp;&nbsp;&nbsp;2500 TL-3000 TL" runat="server" AutoPostBack="true" OnCheckedChanged="chkFiyat2500_CheckedChanged" /><br />
+                                               <asp:CheckBox ID="chkFiyat3000" Text="&nbsp;&nbsp;&nbsp;3000 TL-5000 TL" runat="server" AutoPostBack="true" OnCheckedChanged="chkFiyat3000_CheckedChanged" /><br />
+                                               <asp:CheckBox ID="chkFiyat5000" Text="&nbsp;&nbsp;&nbsp;5000 ve üzeri" runat="server" AutoPostBack="true" OnCheckedChanged="chkFiyat5000_CheckedChanged" /><br />
+						                </div>
+					                </div><hr />
+					                <div class="sidebar-row">
+                                    
+                                            <fieldset id="bilgisayarFiltre">
+                                             <h3>Islemci</h3>
+						                    <div class="row row1 scroll-pane">
+                                                     <asp:CheckBox ID="chki3" Text="&nbsp;&nbsp;&nbsp;İntel Core i3" runat="server" AutoPostBack="true" OnCheckedChanged="CheckBoxi3_CheckedChanged" /><br />
+                                                     <asp:CheckBox ID="chki5" Text="&nbsp;&nbsp;&nbsp;İntel Core i5" runat="server" AutoPostBack="true" OnCheckedChanged="CheckBoxi5_CheckedChanged" /><br />
+                                                     <asp:CheckBox ID="chki7" Text="&nbsp;&nbsp;&nbsp;İntel Core i7" runat="server" AutoPostBack="true" OnCheckedChanged="CheckBoxi7_CheckedChanged" /><br />
+                                                     <asp:CheckBox ID="chkAMD10" Text="&nbsp;&nbsp;&nbsp;AMD A10" runat="server" AutoPostBack="true" OnCheckedChanged="CheckBoxAMD10_CheckedChanged" /><br />
+						                    </div> <hr />
+                                                <h3>Marka</h3>
+                                                 <div class="row row1 scroll-pane">
+                                                 <asp:CheckBox ID="chkAsusPC" Text="&nbsp;&nbsp;&nbsp;Asus" runat="server" AutoPostBack="true" OnCheckedChanged="CheckBoxAsusPC_CheckedChanged" /><br />
+                                                 <asp:CheckBox ID="chkMSİPC" Text="&nbsp;&nbsp;&nbsp;Msi" runat="server" AutoPostBack="true" OnCheckedChanged="CheckBoxMsiPC_CheckedChanged"/><br />
+                                                 <asp:CheckBox ID="chkCasperPC" Text="&nbsp;&nbsp;&nbsp;Casper" runat="server" AutoPostBack="true" OnCheckedChanged="CheckBoxCasperPC_CheckedChanged" /><br />
+                                                </div> <hr />
+                                                <h3>Ekran boyutu</h3>
+						                        <div class="row row1 scroll-pane">
+                                                            <asp:CheckBox ID="chk12inc" Text="&nbsp;&nbsp;&nbsp;12 inç" runat="server" AutoPostBack="true" OnCheckedChanged="chk12inc_CheckedChanged"/><br />
+                                                            <asp:CheckBox ID="chk15inc" Text="&nbsp;&nbsp;&nbsp;15 inç" runat="server" AutoPostBack="true" OnCheckedChanged="chk15inc_CheckedChanged"/><br />
+                                                            <asp:CheckBox ID="chk17_1inc" Text="&nbsp;&nbsp;&nbsp;17.1 inç" runat="server" AutoPostBack="true" OnCheckedChanged="chk17_1inc_CheckedChanged" /><br />
+						                        </div> <hr />
+                                                 <h3>Isletim Sistemi</h3>
+						                        <div class="row row1 scroll-pane">
+                                                         <asp:CheckBox ID="chkFreeDos" Text="&nbsp;&nbsp;&nbsp;Free Dos" runat="server" AutoPostBack="true" OnCheckedChanged="chkFreeDos_CheckedChanged" /><br />
+                                                         <asp:CheckBox ID="chkWindows8_1" Text="&nbsp;&nbsp;&nbsp;Windows 8.1" runat="server" AutoPostBack="true" OnCheckedChanged="chkWindows8_1_CheckedChanged" /><br />
+                                                         <asp:CheckBox ID="chkWindows10" Text="&nbsp;&nbsp;&nbsp;Windows 10" runat="server" AutoPostBack="true" OnCheckedChanged="chkWindows10_CheckedChanged"  /><br />
+						                        </div> 
+                                                    <h3>Harddisk</h3>
+						                        <div class="row row1 scroll-pane">
+                                                         <asp:CheckBox ID="chk250gb" Text="&nbsp;&nbsp;&nbsp;250 GB" runat="server" AutoPostBack="true" OnCheckedChanged="chk250gb_CheckedChanged"/><br />
+                                                         <asp:CheckBox ID="chk500gb" Text="&nbsp;&nbsp;&nbsp;500 GB" runat="server" AutoPostBack="true" OnCheckedChanged="chk500gb_CheckedChanged"/><br />
+                                                         <asp:CheckBox ID="chk1tb" Text="&nbsp;&nbsp;&nbsp;1 TB" runat="server" AutoPostBack="true" OnCheckedChanged="chk1tb_CheckedChanged"   /><br />
+                                                         <asp:CheckBox ID="chk1_5tb" Text="&nbsp;&nbsp;&nbsp;1.5 TB" runat="server" AutoPostBack="true" OnCheckedChanged="chk1_5tb_CheckedChanged"/><br />
+                                                         <asp:CheckBox ID="chk2tb" Text="&nbsp;&nbsp;&nbsp;2 TB" runat="server" AutoPostBack="true" OnCheckedChanged="chk2tb_CheckedChanged"   /><br />
+						                        </div> 
+                                            </fieldset>
+						             
+					                </div>  
+                               
+                                 
+				                </div>
+					               
+                                    <div class="gallery-grid " style="float:left;">
+					                    <h6>YOU MAY ALSO LIKE</h6>
+					                    <a href="single.html"><img src="images/b1.png" class="img-responsive" alt=""/></a>
+					                    <div class="gallery-text simpleCart_shelfItem">
+						                    <h5><a class="name" href="single.html">Full Sleeves Romper</a></h5>
+						                    <p><span class="item_price">60$</span></p>
+						                    <h4 class="sizes">Sizes: <a href="#"> s</a> - <a href="#">m</a> - <a href="#">l</a> - <a href="#">xl</a> </h4>
+						                    <ul>
+							                    <li><a href="#"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span></a></li>
+							                    <li><a class="item_add" href="#"><span class="glyphicon glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a></li>
+							                    <li><a href="#"><span class="glyphicon glyphicon glyphicon-heart-empty" aria-hidden="true"></span></a></li>
+						                    </ul>
+					                    </div>
+				                    </div>
+                                    <div class="gallery-grid " style="float:left;">
+					                                    <h6>YOU MAY ALSO LIKE</h6>
+					                                    <a href="single.html"><img src="images/b1.png" class="img-responsive" alt=""/></a>
+					                                    <div class="gallery-text simpleCart_shelfItem">
+						                                    <h5><a class="name" href="single.html">Full Sleeves Romper</a></h5>
+						                                    <p><span class="item_price">60$</span></p>
+						                                    <h4 class="sizes">Sizes: <a href="#"> s</a> - <a href="#">m</a> - <a href="#">l</a> - <a href="#">xl</a> </h4>
+						                                    <ul>
+							                                    <li><a href="#"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span></a></li>
+							                                    <li><a class="item_add" href="#"><span class="glyphicon glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a></li>
+							                                    <li><a href="#"><span class="glyphicon glyphicon glyphicon-heart-empty" aria-hidden="true"></span></a></li>
+						                                    </ul>
+					                                    </div>
+				                                    </div>
+             </div>
+				            
+				              
+                                    <asp:ContentPlaceHolder ID="product_icerik" runat="server"></asp:ContentPlaceHolder>
+                       
+                      
+                        <div class="clearfix"> </div>
+
+			            </div>
+        
+           
+      </div>
+	
+
+
+   
+   
+
+</asp:Content>

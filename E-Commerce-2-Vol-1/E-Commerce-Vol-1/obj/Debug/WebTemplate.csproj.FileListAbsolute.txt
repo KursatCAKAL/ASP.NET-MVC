@@ -1,0 +1,52 @@
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\csc.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\vbc.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\VBCSCompiler.exe
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\WebTemplate.dll.config
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\WebTemplate.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\WebTemplate.pdb
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.csprojResolveAssemblyReference.cache
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.dll
+c:\users\kursat cakal\documents\visual studio 2015\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.pdb
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\WebTemplate\WebTemplate\bin\EntityFramework.dll
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\WebTemplate\WebTemplate\bin\EntityFramework.SqlServer.dll
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\WebTemplate\WebTemplate\bin\WebData.dll
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\WebTemplate\WebTemplate\bin\WebData.pdb
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\WebTemplate\WebTemplate\bin\EntityFramework.xml
+C:\Users\KURSAT CAKAL\Documents\Visual Studio 2015\Projects\WebTemplate\WebTemplate\bin\EntityFramework.SqlServer.xml
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\csc.exe
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\System.Collections.Immutable.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\System.Reflection.Metadata.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\vbc.exe
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\VBCSCompiler.exe
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\roslyn\VBCSCompiler.exe.config
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\WebTemplate.dll.config
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\WebTemplate.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\WebTemplate.pdb
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\EntityFramework.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\EntityFramework.SqlServer.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\WebData.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\WebData.pdb
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\EntityFramework.xml
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\EntityFramework.SqlServer.xml
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.csprojResolveAssemblyReference.cache
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.dll
+D:\PC FORMAT\Projects2017_ProjeBittiktenSonra\Projects\WebTemplate\WebTemplate\obj\Debug\WebTemplate.pdb
