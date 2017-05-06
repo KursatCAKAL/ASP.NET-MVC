@@ -7,3 +7,4 @@ MVC BLOG First Look
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_3.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_4.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_5.png)
+![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/MVC_HataYakalama.jpg)
