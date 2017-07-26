@@ -10,7 +10,7 @@ namespace IDENTITY_MEMBERSHIP.Infrastructure.Context
 {
     public class IdentityDBContext:IdentityDbContext<ApplicationUser>
     {
-        public IdentityDBContext():base("server=.;database=IdentityDataBase;user id=sa;password=casper1akk")
+        public IdentityDBContext():base("server=.;database=IdentityDataBase;user id=sa;password=PAROLA")
         {
 
         }
