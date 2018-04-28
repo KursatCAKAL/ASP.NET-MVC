@@ -2,6 +2,9 @@
 ASP.NET MVC Web Application 
 <br/>
 MVC BLOG First Look
+
+
+![alt text](https://raw.githubusercontent.com/KursatCAKAL/ASP.NET-MVC/master/MVC_Natural_Working_Process.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_1.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_2.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_3.png)
