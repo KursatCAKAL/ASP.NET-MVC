@@ -1,10 +1,22 @@
 # ASP.NET-MVC
 ASP.NET MVC Web Application 
 <br/>
-MVC BLOG First Look
+
+
+
+
 
 
 ![alt text](https://raw.githubusercontent.com/KursatCAKAL/ASP.NET-MVC/master/MVC_Natural_Working_Process.png)
+
+
+![alt text](https://raw.githubusercontent.com/KursatCAKAL/ASP.NET-MVC/master/ASP.Net.Mvc.Html_Helper_1.png)
+![alt text](https://raw.githubusercontent.com/KursatCAKAL/ASP.NET-MVC/master/ASP.Net.Mvc.Html_Helper_2.png)
+![alt text](https://raw.githubusercontent.com/KursatCAKAL/ASP.NET-MVC/master/ASP.Net.Mvc.Html_Helper_3.png)
+
+MVC BLOG First Look
+
+
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_1.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_2.png)
 ![alt text](https://github.com/KursatCAKAL/ASP.NET-MVC/blob/master/BLOG_3.png)
