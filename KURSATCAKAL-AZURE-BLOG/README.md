@@ -1,0 +1,1 @@
+Örnek Ekran Çıktıları
